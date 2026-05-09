@@ -108,16 +108,16 @@
   },
   {
     "id": 16,
-    "title": "Retro Pop Art",
+    "title": "Signature Box Business Card",
     "category": "card",
     "image": "/artwork-16.jpg",
-    "description": "A retro-inspired pop art graphic design with bold outlines, halftone textures, and vivid contrasting colors."
+    "description": "A sleek and professional business card design for Signature Box, featuring clean typography and a modern minimalist layout."
   },
   {
     "id": 17,
-    "title": "Midnight Bloom",
+    "title": "Agua Ecologic Business Card",
     "category": "card",
     "image": "/artwork-17.jpg",
-    "description": "An elegant floral illustration with deep midnight tones and luminous bloom accents."
+    "description": "A fresh, eco-friendly business card design for Agua Ecologic, incorporating nature-inspired elements and a clean, sustainable aesthetic."
   }
 ]
