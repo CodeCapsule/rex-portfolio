@@ -82,9 +82,9 @@ export const Header: React.FC<HeaderProps> = ({ activeSection, onOpenResume }) =
               <button
                 key={link.name}
                 onClick={() => scrollTo(link.id)}
-                className={`text-sm font-bold tracking-wide transition-colors uppercase ${activeSection === link.id
-                  ? 'text-black dark:text-white'
-                  : 'text-gray-500 hover:text-black dark:text-gray-300 dark:hover:text-white'
+                className={`text-sm font-bold tracking-wide transition-all duration-300 uppercase ${activeSection === link.id
+                  ? 'text-accent'
+                  : 'text-gray-500 hover:text-accent dark:text-gray-300 dark:hover:text-accent'
                   }`}
               >
                 {link.name}
@@ -134,7 +134,7 @@ export const Header: React.FC<HeaderProps> = ({ activeSection, onOpenResume }) =
             <button
               key={link.name}
               onClick={() => scrollTo(link.id)}
-              className="text-left text-lg font-semibold text-gray-800 dark:text-white py-2 border-b border-gray-50 dark:border-gray-800 uppercase"
+              className="text-left text-lg font-semibold text-gray-800 dark:text-white py-2 border-b border-gray-50 dark:border-gray-800 uppercase hover:text-accent dark:hover:text-accent transition-colors duration-300"
             >
               {link.name}
             </button>
