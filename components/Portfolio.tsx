@@ -154,8 +154,8 @@ export const Portfolio: React.FC<PortfolioProps> = ({ id, projects, categories }
               <button
                 key={tab.id}
                 onClick={() => setFilter(tab.id as any)}
-                className={`relative pb-3 text-sm md:text-base font-bold transition-all duration-300 outline-none whitespace-nowrap flex-shrink-0 snap-center ${filter === tab.id
-                  ? 'text-black dark:text-white'
+                className={`relative pb-3 text-xs sm:text-sm md:text-base font-bold tracking-wide uppercase transition-all duration-300 outline-none whitespace-nowrap flex-shrink-0 snap-center ${filter === tab.id
+                  ? 'text-black dark:text-white scale-105'
                   : 'text-gray-400 hover:text-gray-700 dark:text-gray-500 dark:hover:text-gray-300'
                   }`}
               >
