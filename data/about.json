@@ -1,0 +1,75 @@
+{
+  "title": "Rex J. Punlagao",
+  "description": "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate.",
+  "image": "https://picsum.photos/600/600",
+  "subTitle": "UI/UX Designer & Web Developer.",
+  "subDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  "details": [
+    {
+      "id": "1",
+      "label": "Birthday",
+      "value": "1 May 1995"
+    },
+    {
+      "id": "2",
+      "label": "Website",
+      "value": "www.example.com"
+    },
+    {
+      "id": "3",
+      "label": "Phone",
+      "value": "+63970-7477-024"
+    },
+    {
+      "id": "4",
+      "label": "City",
+      "value": "Bacoor, Cavite"
+    },
+    {
+      "id": "5",
+      "label": "Age",
+      "value": "29"
+    },
+    {
+      "id": "6",
+      "label": "Degree",
+      "value": "Bachelor"
+    },
+    {
+      "id": "7",
+      "label": "Email",
+      "value": "rex.punlagao@gmail.com"
+    },
+    {
+      "id": "8",
+      "label": "Freelance",
+      "value": "Available"
+    }
+  ],
+  "stats": [
+    {
+      "id": "1",
+      "label": "Happy Clients",
+      "count": 232,
+      "icon": "Smile"
+    },
+    {
+      "id": "2",
+      "label": "Projects",
+      "count": 521,
+      "icon": "FileText"
+    },
+    {
+      "id": "3",
+      "label": "Hours Of Support",
+      "count": 1453,
+      "icon": "Headset"
+    },
+    {
+      "id": "4",
+      "label": "Hard Workers",
+      "count": 32,
+      "icon": "Users"
+    }
+  ]
+}

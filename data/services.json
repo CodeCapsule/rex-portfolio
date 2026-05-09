@@ -1,0 +1,20 @@
+[
+  {
+    "icon": "Code2",
+    "title": "Web Design",
+    "description": "Performance-driven landing pages and full-scale websites (Personal, Business, & eCommerce) optimized for user experience and modern SEO.",
+    "color": "bg-[#fccb4e]"
+  },
+  {
+    "icon": "Palette",
+    "title": "Graphic Design",
+    "description": "Professional design for all your business needs, including logos, business card, social media content, marketing flyers. From digital banners to custom T-shirts, I ensure your brand looks consistent and polished everywhere.",
+    "color": "bg-[#be63f9]"
+  },
+  {
+    "icon": "Megaphone",
+    "title": "Digital Marketing",
+    "description": "End-to-end branding solutions including product mock-ups, label architecture, and menu design. I ensure your physical presence is as polished as your digital one.",
+    "color": "bg-[#ff5b5b]"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Seated Portrait",
+    "category": "card",
+    "image": "/artwork-1.jpg",
+    "description": "Vector illustration of a seated woman in warm earth tones with a layered horizontal stripe background. Signed @RXPNLGAOWEEB."
+  },
+  {
+    "id": 2,
+    "title": "Red Sunglasses",
+    "category": "card",
+    "image": "/artwork-2.jpg",
+    "description": "Bold vector portrait of a woman wearing a red beanie and round red-tinted sunglasses against a vivid orange background. Signed @rxjpnlgao."
+  },
+  {
+    "id": 3,
+    "title": "Tattoo Portrait",
+    "category": "card",
+    "image": "/artwork-3.png",
+    "description": "Vector illustration of a woman with long dark hair and a shoulder tattoo set against a dark circle on an orange backdrop. Signed REX."
+  },
+  {
+    "id": 4,
+    "title": "Grayscale Portrait",
+    "category": "card",
+    "image": "/artwork-4.png",
+    "description": "Monochrome vector portrait of a man in a blazer and sunglasses rendered in detailed grayscale tones. Signed REX."
+  },
+  {
+    "id": 5,
+    "title": "Joker",
+    "category": "card",
+    "image": "/artwork-5.jpg",
+    "description": "High-detail vector illustration of the Joker character in his iconic purple coat, smoking a cigarette against a deep purple background."
+  },
+  {
+    "id": 6,
+    "title": "Walker Robie",
+    "category": "card",
+    "image": "/artwork-6.jpg",
+    "description": "A vibrant vector portrait of a youth athlete named Walker Robie, flexing confidently in a basketball jersey."
+  },
+  {
+    "id": 7,
+    "title": "Rain or Shine Season",
+    "category": "card",
+    "image": "/artwork-7.jpg",
+    "description": "A promotional food banner design featuring an appealing layout with bold typography, perfect for seasonal campaigns."
+  },
+  {
+    "id": 8,
+    "title": "Gilas Pilipinas Tribute",
+    "category": "card",
+    "image": "/artwork-8.jpg",
+    "description": "An energetic vector illustration tribute to Jordan Clarkson in his Gilas Pilipinas uniform."
+  },
+  {
+    "id": 9,
+    "title": "VaultDrive Landing Page",
+    "category": "app",
+    "image": "/artwork-9.jpg",
+    "link": "https://www.vaultdrive.ai",
+    "description": "A sleek, modern UI/UX design for VaultDrive, a SaaS landing page showcasing data storage solutions."
+  },
+  {
+    "id": 10,
+    "title": "Digital Valentine's Card",
+    "category": "app",
+    "image": "/artwork-10.jpg",
+    "link": "https://www.a-secret-message-for-you.vercel.app",
+    "description": "A heartfelt digital greeting card illustration designed for Valentine's Day."
+  }
+]

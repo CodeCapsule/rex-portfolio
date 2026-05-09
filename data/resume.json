@@ -1,0 +1,48 @@
+{
+  "summary": "Experienced graphic designer seeking to enhance skillset and expand in career growth. Years of experience working within a team-based environment to create print and digital graphics for a variety of marketing purposes and also focusing on hands-on experience in web application development and best practices.",
+  "education": [
+    {
+      "id": "1",
+      "degree": "BS in Information Technology",
+      "school": "Cavite State University",
+      "year": "2019",
+      "description": "Thesis - Student Portal for Marvelous Faith Academy with Decision Support System"
+    }
+  ],
+  "experience": [
+    {
+      "id": "1",
+      "title": "Graphic Designer",
+      "company": "Fax Parcel Print",
+      "period": "2019 - Present",
+      "description": [
+        "Large Format Printing Like Sintra, Poster, Business Cards & Stationery, Flyers or Posters, Invitations, Logo Design, Sticker Labeling, Social Media Design, T-Shirts, etc."
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Graphic Artist",
+      "company": "Tris-Star Ink",
+      "period": "2018 - 2019",
+      "description": [
+        "Tshirt Printing, Ink Refilling, Printing ID package such as 1x1 and 2x2. Printing Customer need such as ID lace and Business cards, Tumblers, Button pin, etc."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "1",
+      "name": "Jude Mark Jalon",
+      "role": "Graphic Designer",
+      "phone": "+63949-347-4006",
+      "email": "judemarkjalon@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Mari-Niza Cruz",
+      "role": "Admin Assistant",
+      "phone": "+63927-609-1868",
+      "email": "mniza.cruz27@gmail.com"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+[
+  { "id": "1", "platform": "Facebook", "url": "https://facebook.com", "icon": "Facebook", "hoverColor": "#1877F2" },
+  { "id": "2", "platform": "Twitter", "url": "https://twitter.com", "icon": "Twitter", "hoverColor": "#1DA1F2" },
+  { "id": "3", "platform": "LinkedIn", "url": "https://linkedin.com", "icon": "Linkedin", "hoverColor": "#0A66C2" },
+  { "id": "4", "platform": "GitHub", "url": "https://github.com", "icon": "Github", "hoverColor": "#333333" }
+]

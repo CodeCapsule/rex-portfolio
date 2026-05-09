@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "PHOTOSHOP",
+    "iconType": "image",
+    "iconValue": "/photoshop.png",
+    "color": "#31A8FF",
+    "description": "Expert in photo manipulation, retouching, and complex compositions."
+  },
+  {
+    "id": "2",
+    "name": "ILLUSTRATOR",
+    "iconType": "image",
+    "iconValue": "/illustrator.png",
+    "color": "#FF9A00",
+    "description": "Proficient in scalable vector graphics, logo design, and flat illustrations."
+  },
+  {
+    "id": "6",
+    "name": "CAPCUT",
+    "iconType": "image",
+    "iconValue": "/capcut.png",
+    "color": "#000000",
+    "description": "Experienced in quick, engaging video editing and motion effects for social media."
+  },
+  {
+    "id": "7",
+    "name": "CANVA",
+    "iconType": "image",
+    "iconValue": "/canva.png",
+    "color": "#00C4CC",
+    "description": "Skilled at rapidly prototyping social media assets, presentations, and marketing materials."
+  }
+]
