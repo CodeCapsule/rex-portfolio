@@ -20,7 +20,6 @@ export default defineConfig({
       output: {
         manualChunks: {
           'vendor': ['react', 'react-dom', 'framer-motion', 'lucide-react'],
-          'supabase': ['@supabase/supabase-js'],
           'tsparticles': ['@tsparticles/engine', '@tsparticles/react', '@tsparticles/slim'],
         }
       }
