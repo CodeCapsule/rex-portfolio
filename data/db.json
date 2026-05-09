@@ -119,5 +119,13 @@
     "category": "card",
     "image": "/artwork-17.jpg",
     "description": "A fresh, eco-friendly business card design for Agua Ecologic, incorporating nature-inspired elements and a clean, sustainable aesthetic."
+  },
+  {
+    "id": 18,
+    "title": "AmeySing Karaoke Platform",
+    "category": "app",
+    "image": "/artwork-18.jpg",
+    "link": "https://amey-sing.vercel.app",
+    "description": "A full-featured, real-time karaoke web application with YouTube integration, live scoring, and multiplayer session support."
   }
 ]
