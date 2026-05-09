@@ -70,5 +70,26 @@
     "image": "/artwork-10.jpg",
     "link": "https://www.a-secret-message-for-you.vercel.app",
     "description": "A heartfelt digital greeting card illustration designed for Valentine's Day."
+  },
+  {
+    "id": 11,
+    "title": "Abstract Waves",
+    "category": "card",
+    "image": "/artwork-11.jpg",
+    "description": "A dynamic graphic design featuring fluid, colorful abstract waves that convey motion and energy."
+  },
+  {
+    "id": 12,
+    "title": "Cyberpunk Neon City",
+    "category": "card",
+    "image": "/artwork-12.jpg",
+    "description": "A striking neon-infused digital illustration capturing the futuristic vibe of a cyberpunk city."
+  },
+  {
+    "id": 13,
+    "title": "Minimalist Landscape",
+    "category": "card",
+    "image": "/artwork-13.jpg",
+    "description": "A serene, minimalist vector graphic depicting a quiet mountain landscape at sunset."
   }
 ]
