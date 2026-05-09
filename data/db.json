@@ -91,5 +91,33 @@
     "category": "card",
     "image": "/artwork-13.jpg",
     "description": "A serene, minimalist vector graphic depicting a quiet mountain landscape at sunset."
+  },
+  {
+    "id": 14,
+    "title": "Street Style Portrait",
+    "category": "card",
+    "image": "/artwork-14.jpg",
+    "description": "A bold vector portrait showcasing urban street style fashion with vibrant colors and sharp details."
+  },
+  {
+    "id": 15,
+    "title": "Golden Hour Silhouette",
+    "category": "card",
+    "image": "/artwork-15.jpg",
+    "description": "A warm-toned illustration of a silhouette figure set against a stunning golden hour sky backdrop."
+  },
+  {
+    "id": 16,
+    "title": "Retro Pop Art",
+    "category": "card",
+    "image": "/artwork-16.jpg",
+    "description": "A retro-inspired pop art graphic design with bold outlines, halftone textures, and vivid contrasting colors."
+  },
+  {
+    "id": 17,
+    "title": "Midnight Bloom",
+    "category": "card",
+    "image": "/artwork-17.jpg",
+    "description": "An elegant floral illustration with deep midnight tones and luminous bloom accents."
   }
 ]
